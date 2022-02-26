@@ -13,3 +13,16 @@ $ git clone <adresseDuDepot>
 ```bash
 $ git pull origin <nomDeLaBranche>
 ```
+
+---
+### creer une nouvelle branche
+> Pour creer une nouvelle ranche la commande est:
+
+```bash
+# Creer une nouvelle branche et basuler sur la branche
+$ git checkout -b <nomDeLaBranche>
+# Creer une nouvelle branche tout simplement
+$ git branch <nomDeLaBranche>
+# Basculer sur la branche
+$ git checkout <nomDeLaBranche>
+```
